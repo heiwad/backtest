@@ -6,9 +6,9 @@ dependencies:
   - python=3.10
   - pandas
   - pip
+  - ipykernel
   - pip:
     - boto3
     - bokeh==2.4.3
     - backtesting
-    - requests
     - yfinance
